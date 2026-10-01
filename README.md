@@ -6,6 +6,12 @@ Projeto acadêmico: Projeto 1 de Programação Web Back-End
 
 Integrante: Felipe de Almeida Bueno
 
+## Vídeo explicativo
+
+[![Assista ao vídeo explicativo do Projeto 1](https://img.youtube.com/vi/PHjwo0P1thA/hqdefault.jpg)](https://www.youtube.com/watch?v=PHjwo0P1thA)
+
+[Assistir ao vídeo no YouTube](https://www.youtube.com/watch?v=PHjwo0P1thA)
+
 ## Temática
 
 Agenda de usuários, categorias, eventos e anotações.
